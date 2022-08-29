@@ -1,0 +1,17 @@
+.buttons {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+button {
+    background-color: blueviolet;
+    width: 6rem;
+    height: 3rem;
+    margin-right: 10px;
+    font-size: 25px;
+    border: none;
+    border-radius: 12px;
+
+}

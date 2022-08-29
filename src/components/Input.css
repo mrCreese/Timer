@@ -1,0 +1,25 @@
+.input__container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+input:focus {
+    outline: none;
+}
+
+input {
+    color: black;
+    background-color: transparent;
+    height: 3rem;
+    font-size: 30px;
+    width: 4rem;
+    border-radius: 12px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+::placeholder {
+    font-size: 1rem;
+   
+}
+
